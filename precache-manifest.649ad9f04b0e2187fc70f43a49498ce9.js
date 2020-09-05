@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9d6a247b1fe2c0ecb5638e637b95a12",
+    "revision": "cd1656a27ef948f0fdbe831fc4fe987d",
     "url": "/nwes/index.html"
   },
   {
-    "revision": "9c93157a8e7b74348bc9",
+    "revision": "707d20925b33e9aa4fe4",
     "url": "/nwes/static/css/main.a5caab70.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nwes/static/js/2.aff88dce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c93157a8e7b74348bc9",
-    "url": "/nwes/static/js/main.3f4f83a0.chunk.js"
+    "revision": "707d20925b33e9aa4fe4",
+    "url": "/nwes/static/js/main.56742c9b.chunk.js"
   },
   {
     "revision": "97f7c5c63127290951cc",

@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/indu-bakshi.github.io/nwes/static/css/main.a5caab70.chunk.css",
-    "main.js": "/indu-bakshi.github.io/nwes/static/js/main.3f4f83a0.chunk.js",
-    "main.js.map": "/indu-bakshi.github.io/nwes/static/js/main.3f4f83a0.chunk.js.map",
-    "runtime-main.js": "/indu-bakshi.github.io/nwes/static/js/runtime-main.c6988e9a.js",
-    "runtime-main.js.map": "/indu-bakshi.github.io/nwes/static/js/runtime-main.c6988e9a.js.map",
-    "static/js/2.aff88dce.chunk.js": "/indu-bakshi.github.io/nwes/static/js/2.aff88dce.chunk.js",
-    "static/js/2.aff88dce.chunk.js.map": "/indu-bakshi.github.io/nwes/static/js/2.aff88dce.chunk.js.map",
-    "index.html": "/indu-bakshi.github.io/nwes/index.html",
-    "precache-manifest.4765d08009feb37b4a90fb7c5857021d.js": "/indu-bakshi.github.io/nwes/precache-manifest.4765d08009feb37b4a90fb7c5857021d.js",
-    "service-worker.js": "/indu-bakshi.github.io/nwes/service-worker.js",
-    "static/css/main.a5caab70.chunk.css.map": "/indu-bakshi.github.io/nwes/static/css/main.a5caab70.chunk.css.map",
-    "static/js/2.aff88dce.chunk.js.LICENSE.txt": "/indu-bakshi.github.io/nwes/static/js/2.aff88dce.chunk.js.LICENSE.txt"
+    "main.css": "/nwes/static/css/main.a5caab70.chunk.css",
+    "main.js": "/nwes/static/js/main.3f4f83a0.chunk.js",
+    "main.js.map": "/nwes/static/js/main.3f4f83a0.chunk.js.map",
+    "runtime-main.js": "/nwes/static/js/runtime-main.60731d14.js",
+    "runtime-main.js.map": "/nwes/static/js/runtime-main.60731d14.js.map",
+    "static/js/2.aff88dce.chunk.js": "/nwes/static/js/2.aff88dce.chunk.js",
+    "static/js/2.aff88dce.chunk.js.map": "/nwes/static/js/2.aff88dce.chunk.js.map",
+    "index.html": "/nwes/index.html",
+    "precache-manifest.58db75069cd8c52e8bb464f4abcc2794.js": "/nwes/precache-manifest.58db75069cd8c52e8bb464f4abcc2794.js",
+    "service-worker.js": "/nwes/service-worker.js",
+    "static/css/main.a5caab70.chunk.css.map": "/nwes/static/css/main.a5caab70.chunk.css.map",
+    "static/js/2.aff88dce.chunk.js.LICENSE.txt": "/nwes/static/js/2.aff88dce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6988e9a.js",
+    "static/js/runtime-main.60731d14.js",
     "static/js/2.aff88dce.chunk.js",
     "static/css/main.a5caab70.chunk.css",
     "static/js/main.3f4f83a0.chunk.js"

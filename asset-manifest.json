@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/nwes/static/css/main.a5caab70.chunk.css",
-    "main.js": "/nwes/static/js/main.97137795.chunk.js",
-    "main.js.map": "/nwes/static/js/main.97137795.chunk.js.map",
+    "main.css": "/nwes/static/css/main.0f5409bd.chunk.css",
+    "main.js": "/nwes/static/js/main.9f2f9302.chunk.js",
+    "main.js.map": "/nwes/static/js/main.9f2f9302.chunk.js.map",
     "runtime-main.js": "/nwes/static/js/runtime-main.60731d14.js",
     "runtime-main.js.map": "/nwes/static/js/runtime-main.60731d14.js.map",
     "static/js/2.f131f7e0.chunk.js": "/nwes/static/js/2.f131f7e0.chunk.js",
     "static/js/2.f131f7e0.chunk.js.map": "/nwes/static/js/2.f131f7e0.chunk.js.map",
     "index.html": "/nwes/index.html",
-    "precache-manifest.0a639c714b84d920bd63edbabc45f0af.js": "/nwes/precache-manifest.0a639c714b84d920bd63edbabc45f0af.js",
+    "precache-manifest.5f434064e5a19fdcb9ae40bfc8adcf11.js": "/nwes/precache-manifest.5f434064e5a19fdcb9ae40bfc8adcf11.js",
     "service-worker.js": "/nwes/service-worker.js",
-    "static/css/main.a5caab70.chunk.css.map": "/nwes/static/css/main.a5caab70.chunk.css.map",
+    "static/css/main.0f5409bd.chunk.css.map": "/nwes/static/css/main.0f5409bd.chunk.css.map",
     "static/js/2.f131f7e0.chunk.js.LICENSE.txt": "/nwes/static/js/2.f131f7e0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.60731d14.js",
     "static/js/2.f131f7e0.chunk.js",
-    "static/css/main.a5caab70.chunk.css",
-    "static/js/main.97137795.chunk.js"
+    "static/css/main.0f5409bd.chunk.css",
+    "static/js/main.9f2f9302.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95cb89fc580a9a9a04d4d4c14db011ff",
+    "revision": "35eb22943910bdffa6c251427f8ecae1",
     "url": "/nwes/index.html"
   },
   {
-    "revision": "713539c97cb9dadcbce1",
+    "revision": "6fb60504a59577ea3b8f",
     "url": "/nwes/static/css/main.0f5409bd.chunk.css"
   },
   {
-    "revision": "ac2b94ca1c6a81664cfc",
-    "url": "/nwes/static/js/2.48993f1c.chunk.js"
+    "revision": "b6b137383a59e232cf76",
+    "url": "/nwes/static/js/2.6bda1b71.chunk.js"
   },
   {
-    "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/nwes/static/js/2.48993f1c.chunk.js.LICENSE.txt"
+    "revision": "5e9b6f5c16b720e8a86875f97734673e",
+    "url": "/nwes/static/js/2.6bda1b71.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "713539c97cb9dadcbce1",
-    "url": "/nwes/static/js/main.810321b6.chunk.js"
+    "revision": "6fb60504a59577ea3b8f",
+    "url": "/nwes/static/js/main.527d8c8b.chunk.js"
   },
   {
     "revision": "97f7c5c63127290951cc",
